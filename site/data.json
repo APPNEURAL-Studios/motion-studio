@@ -1,0 +1,96 @@
+{
+  "slug": "motion-studio",
+  "host": "motion",
+  "title": "Motion Studio",
+  "tagline": "Animation, GIF, Lottie, motion graphics",
+  "description": "Create 2D animations, motion graphics, and frame-by-frame sequences. Animate logos, kinetic typography, and whiteboard explainers, build Lottie and GIF animations, and fine-tune keyframes, timelines, transitions, and presets.",
+  "editors": [
+    {
+      "category": "Animation & Motion Editors",
+      "name": "2D Animation Editor",
+      "desc": "Vector/raster 2D animation"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Frame-by-Frame Editor",
+      "desc": "Traditional frame-by-frame animation"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Motion Graphics Editor",
+      "desc": "Animated graphic compositions"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "GIF Editor",
+      "desc": "Animated GIF creation and editing"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Logo Animation Editor",
+      "desc": "Animate logos and brand marks"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Whiteboard Animation Editor",
+      "desc": "Hand-drawn explainer animations"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Kinetic Typography Editor",
+      "desc": "Animated text and type motion"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Stop-Motion Editor",
+      "desc": "Stop-motion sequence creation"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Lottie Animation Editor",
+      "desc": "Lottie/Bodymovin JSON animation"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Keyframe Editor",
+      "desc": "Property keyframe manipulation"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Timeline Editor",
+      "desc": "Multi-track animation timeline"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Transition Editor",
+      "desc": "Scene/element transition design"
+    },
+    {
+      "category": "Animation & Motion Editors",
+      "name": "Animation Preset Editor",
+      "desc": "Save and manage animation presets"
+    }
+  ],
+  "services": [
+    [
+      "media",
+      "new"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "asset",
+      "gap"
+    ]
+  ]
+}
